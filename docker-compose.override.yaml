@@ -1,0 +1,2 @@
+curl htpp://localhost/ || exit 1
+jj
